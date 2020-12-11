@@ -1,0 +1,5 @@
+
+T	java:S106"9Replace this use of System.out or System.err by a logger.(´Â„O8³€íÅÖ.
+C
+java:S1481"&Remove this unused "m" local variable.(°°£«8÷‰ìÅÖ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(À§Éûÿÿÿÿ8ÓœïÅÖ.

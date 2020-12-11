@@ -1,0 +1,14 @@
+
+]
+java:S2274";Remove this call to "await" or move it into a "while" loop.(Å²©ğúÿÿÿÿ8ÌÕß‰Ù.
+I
+java:S1128"-Remove this unused import 'org.slf4j.Logger'.(íØ®68Ô«â‰Ù.
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¥¹ß‰Ù.
+E	java:S1080")Either remove or fill this block of code.(”ı¾8¥¹ß‰Ù.
+h
+java:S2184"FCast one of the operands of this multiplication operation to a "long".(í•Î¢øÿÿÿÿ8¥¹ß‰Ù.
+h
+java:S2184%"FCast one of the operands of this multiplication operation to a "long".(ÍÁ”ëøÿÿÿÿ8¥¹ß‰Ù.
+h
+java:S2184/"FCast one of the operands of this multiplication operation to a "long".(í•Î¢øÿÿÿÿ8¥¹ß‰Ù.

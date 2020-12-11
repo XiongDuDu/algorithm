@@ -1,0 +1,12 @@
+
+W
+java:S1191"5Use classes from the Java API instead of Sun classes.(îØûùÿÿÿÿÿ8ÊÑíÕä.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‹›ê›8ôíöÕä.
+\
+java:S1128":Remove this unused import 'sun.util.resources.LocaleData'.(îØûùÿÿÿÿÿ8ÊÑíÕä.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(²¨ç÷8 ãîÕä.
+O
+java:S1128"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ8ÊÑíÕä.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¤¹«8ı×ğÕä.
+9
+java:S1116"Remove this empty statement.(‹›ê›8ôíöÕä.

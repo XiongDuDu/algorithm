@@ -1,0 +1,8 @@
+
+Q
+java:S1128"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜8˜ÆÚ±ä.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(“×¥¤8ªÙı‹ä.
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(İî†Îúÿÿÿÿ8ĞÎú±ä.
+O
+java:S3958"2Refactor the code so this stream pipeline is used.(‹­¤8ÿ¤Œä.
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(è¯ĞÏûÿÿÿÿ8ªÙı‹ä.

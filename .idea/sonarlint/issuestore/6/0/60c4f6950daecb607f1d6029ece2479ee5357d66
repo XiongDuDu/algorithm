@@ -1,0 +1,18 @@
+
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(Œä¨ıÿÿÿÿ8ÑË„·Ø.
+T
+java:S1128"7Remove this unused import 'com.google.gson.JsonObject'.(µÊ´½8âæò°Û.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¸ØïU8ï§ÚÈÔ.
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(Ûµî8ÄíÑ°Û.
+Z
+java:S1481"8Remove this unused "xdataPlanBOFromJson" local variable.(¹óÛÎÿÿÿÿÿ8ï§ÚÈÔ.
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(£ÔÂü8ï§ÚÈÔ.
+J
+java:S1481E"(Remove this unused "gid" local variable.(õÌõ»øÿÿÿÿ8ÈõĞ°Û.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(øŒ¼Æ8ï§ÚÈÔ.
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8ï§ÚÈÔ.
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(ì¡å±8¹ÒÃ’×.
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(ôƒñ™8ï§ÚÈÔ.
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(„‡†Ë8áœ¨ÃØ.
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(øÆ äıÿÿÿÿ8ï§ÚÈÔ.
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(¨¤­¨üÿÿÿÿ8ï§ÚÈÔ.

@@ -1,0 +1,16 @@
+
+U
+java:S1117	"8Rename "value" which hides the field declared at line 6.(â—ìç8‘“Û‚ä.
+[
+java:S1117"9Rename "value" which hides the field declared at line 11.(ïÕÇúÿÿÿÿ8‘“Û‚ä.
+>
+java:S1170"!Make this final field static too.(€–Àí8‘“Û‚ä.
+0
+java:S1220""Move this file to a named package.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(–ûÅ¿8‘“Û‚ä.
+G
+java:S1481	"*Remove this unused "value" local variable.(â—ìç8‘“Û‚ä.
+C
+java:S1170"!Make this final field static too.(ò»®ùÿÿÿÿ8‘“Û‚ä.
+L
+java:S1481"*Remove this unused "value" local variable.(ïÕÇúÿÿÿÿ8‘“Û‚ä.

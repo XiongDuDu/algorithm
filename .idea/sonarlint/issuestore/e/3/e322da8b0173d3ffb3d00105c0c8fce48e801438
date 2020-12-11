@@ -1,0 +1,43 @@
+
+U	java:S106f"9Replace this use of System.out or System.err by a logger.(¦£¼«8Ï´ç‘Ç.
+Q
+java:S3740J"/Provide the parametrized type for this generic.(Ôıô‡ıÿÿÿÿ8ÅÅßŒÇ.
+I
+java:S16120",Replace this lambda with a method reference.(Ç¢Š«8÷›£›Ì.
+u
+java:S1602J"SRemove useless curly braces around statement and then remove useless return keyword(Ôıô‡ıÿÿÿÿ8Ç×ãŒÇ.
+T	java:S106N"9Replace this use of System.out or System.err by a logger.(Ä¤¾98é±ÔÇ.
+Z	java:S106s"9Replace this use of System.out or System.err by a logger.(Èîİùÿÿÿÿ8ÌÉÕÇ.
+Q
+java:S3740H"/Provide the parametrized type for this generic.(ïœÉşÿÿÿÿ8ÌØŒÇ.
+E
+java:S1604"(Make this anonymous inner class a lambda(ÄÛ£û8­ÌÅŒÇ.
+Z	java:S106|"9Replace this use of System.out or System.err by a logger.(äüÑüÿÿÿÿ8´«†Ç.
+E	java:S108&")Either remove or fill this block of code.(”ı¾8¤ÉÎŒÇ.
+Z	java:S106q"9Replace this use of System.out or System.err by a logger.(äüÑüÿÿÿÿ8´Ô–Ç.
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(®ßüÿÿÿÿ8¿İ‚›Ì.
+U	java:S106S"9Replace this use of System.out or System.err by a logger.(ß—Ü¸8“ç‘Ç.
+u
+java:S16023"SRemove useless curly braces around statement and then remove useless return keyword(¾°Â‘ıÿÿÿÿ8şÄ€›Ì.
+v
+java:S2293T"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ù’˜8“ç‘Ç.
+p
+java:S16020"SRemove useless curly braces around statement and then remove useless return keyword(Ç¢Š«8şÄ€›Ì.
+U	java:S106D"9Replace this use of System.out or System.err by a logger.(œ™ÄÖ8şÄ€›Ì.
+U	java:S106I"9Replace this use of System.out or System.err by a logger.(¾ıã«8ÌØŒÇ.
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(®ßüÿÿÿÿ8¿İ‚›Ì.
+Z	java:S106d"9Replace this use of System.out or System.err by a logger.(‘Şî½üÿÿÿÿ8Ï´ç‘Ç.
+U	java:S106P"9Replace this use of System.out or System.err by a logger.(š­ñ 8“ç‘Ç.
+u
+java:S1602;"SRemove useless curly braces around statement and then remove useless return keyword(¾°Â‘ıÿÿÿÿ8è€¥›Ì.
+E
+java:S1604!"(Make this anonymous inner class a lambda(ÄÛ£û8¤ÉÎŒÇ.
+Z	java:S106M"9Replace this use of System.out or System.err by a logger.(¤­Ôµıÿÿÿÿ8ö‰åŒÇ.
+a	java:S112X"FDefine and throw a dedicated exception instead of using a generic one.(¦´ C8“ç‘Ç.
+E	java:S108")Either remove or fill this block of code.(”ı¾8­ÌÅŒÇ.
+Z	java:S106_"9Replace this use of System.out or System.err by a logger.(ßïØÌùÿÿÿÿ8“ç‘Ç.
+N
+java:S1612H",Replace this lambda with a method reference.(ïœÉşÿÿÿÿ8ÌØŒÇ.
+R
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ï¥¯ö8şÄ€›Ì.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÚáB8ê¡Ç.

@@ -1,0 +1,59 @@
+
+K
+java:S1604š"(Make this anonymous inner class a lambda(‘›Ø÷úÿÿÿÿ8Ñë…ŒÇ.
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(õ—ışÿÿÿÿ8ş³ª‡Ç.
+J
+java:S16042"(Make this anonymous inner class a lambda(‘›Ø÷úÿÿÿÿ8±ä–ŒÇ.
+g	java:S112k"FDefine and throw a dedicated exception instead of using a generic one.(€…Íùÿÿÿÿ8´³Ë‡Ç.
+U	java:S106."9Replace this use of System.out or System.err by a logger.(Üƒí”8ğ«öÇ.
+U	java:S106d"9Replace this use of System.out or System.err by a logger.(ÏºĞÚ8Ïş¼‡Ç.
+L
+java:S3740\"/Provide the parametrized type for this generic.(Ô…Ôì8Ïş¼‡Ç.
+R
+java:S3740ˆ"/Provide the parametrized type for this generic.(¹Œ˜ìÿÿÿÿÿ8–ø‚ŒÇ.
+K
+java:S1604ˆ"(Make this anonymous inner class a lambda(¹Œ˜ìÿÿÿÿÿ8–ø‚ŒÇ.
+E
+java:S1604?"(Make this anonymous inner class a lambda(¸÷²÷8à÷›ŒÇ.
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(‘Şî½üÿÿÿÿ8ü©‡Ç.
+V	java:S106´"9Replace this use of System.out or System.err by a logger.(ÀØµ¯8à÷›ŒÇ.
+E	java:S108")Either remove or fill this block of code.(”ı¾8À¤‡Ç.
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(³ÿÅáşÿÿÿÿ8ğ«öÇ.
+b	java:S112™"FDefine and throw a dedicated exception instead of using a generic one.(¹÷ƒ:8Ñë…ŒÇ.
+u
+java:S1192;"SDefine a constant instead of duplicating this literal "hello, thenRun, dw" 3 times.( Ÿ¤šÿÿÿÿÿ8±ä–ŒÇ.
+g	java:S112["FDefine and throw a dedicated exception instead of using a generic one.(¯ØâÀşÿÿÿÿ8÷²¹‡Ç.
+R
+java:S3740§"/Provide the parametrized type for this generic.(—öù¼úÿÿÿÿ8Ñë…ŒÇ.
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(“ê­±ÿÿÿÿÿ8ğ«öÇ.
+J
+java:S1604N"(Make this anonymous inner class a lambda(ÿ üìıÿÿÿÿ8ã€¤ŒÇ.
+U	java:S106K"9Replace this use of System.out or System.err by a logger.(ÀØµ¯8Ñë…ŒÇ.
+T	java:S106T"9Replace this use of System.out or System.err by a logger.(°íàW8ã€¤ŒÇ.
+Z	java:S106h"9Replace this use of System.out or System.err by a logger.(‘Şî½üÿÿÿÿ8Ïş¼‡Ç.
+V	java:S106–"9Replace this use of System.out or System.err by a logger.(ÀØµ¯8–ø‚ŒÇ.
+J
+java:S1604{"(Make this anonymous inner class a lambda(‘›Ø÷úÿÿÿÿ8–ø‚ŒÇ.
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(­úŠûûÿÿÿÿ8ë®‡Ç.
+K
+java:S1604§"(Make this anonymous inner class a lambda(—öù¼úÿÿÿÿ8€ç‡ŒÇ.
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(ŠÔ½’üÿÿÿÿ8¿‚¥‡Ç.
+U	java:S106’"9Replace this use of System.out or System.err by a logger.(½Üõu8–ø‚ŒÇ.
+a	java:S112z"FDefine and throw a dedicated exception instead of using a generic one.(µøz8ç¬ò‹Ç.
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(Úºç­8ğ«öÇ.
+Z	java:S106w"9Replace this use of System.out or System.err by a logger.(‘Şî½üÿÿÿÿ8Ÿ§Ğ‡Ç.
+[	java:S106‘"9Replace this use of System.out or System.err by a logger.(›Óğ°şÿÿÿÿ8–ø‚ŒÇ.
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(…§€ÿÿÿÿÿ8ºØ¨‡Ç.
+Z	java:S106M"9Replace this use of System.out or System.err by a logger.(íª§¦ùÿÿÿÿ8ÄŒÇ.
+Q
+java:S3740l"/Provide the parametrized type for this generic.(ı ª¬ûÿÿÿÿ8Ÿ§Ğ‡Ç.
+E
+java:S1604\"(Make this anonymous inner class a lambda(Ô…Ôì8Ïş¼‡Ç.
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(‰É¨é8ë®‡Ç.
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(‹‹âşÿÿÿÿ8ş•ŒÇ.
+J
+java:S1604l"(Make this anonymous inner class a lambda(ı ª¬ûÿÿÿÿ8Ÿ§Ğ‡Ç.
+Z	java:S106R"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8ã€¤ŒÇ.
+[	java:S106°"9Replace this use of System.out or System.err by a logger.(§»ÕŒÿÿÿÿÿ8·ó‹ŒÇ.

@@ -1,0 +1,25 @@
+
+h
+java:S1192b"KDefine a constant instead of duplicating this literal "yyyyMMddHH" 3 times.(´‘Â8¨õûÆÓ.
+I
+java:S14814"'Remove this unused "c1" local variable.(ÑŞ£³ùÿÿÿÿ8ºø“¸Ò.
+]	java:S1256"<This block of commented-out lines of code should be removed.(«Î„âûÿÿÿÿ8ºø“¸Ò.
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(·±šÊ8ûøÈ·Ò.
+i
+java:S2095<"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ºÆ¸ïÿÿÿÿÿ8îåæ·Ò.
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(ˆÖ¹àüÿÿÿÿ8ğáé·Ò.
+i
+java:S2095-"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ÊõŞàşÿÿÿÿ8¡—Ö·Ò.
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(ïº„»úÿÿÿÿ8³”Ş·Ò.
+E	java:S108l")Either remove or fill this block of code.(”ı¾8áãÆÓ.
+0
+java:S1220""Move this file to a named package.
+E	java:S108R")Either remove or fill this block of code.(â•¼İ8ûøÈ·Ò.
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(ÿï¼ìûÿÿÿÿ8ûøÈ·Ò.
+Z	java:S106\"9Replace this use of System.out or System.err by a logger.(ƒœ½İùÿÿÿÿ8ûøÈ·Ò.
+R
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ï¥¯ö8â°Ø·Ò.
+Z	java:S106_"9Replace this use of System.out or System.err by a logger.(Èï¡øÿÿÿÿ8ØùğÆÓ.
+P
+java:S1481:".Remove this unused "finalStmt" local variable.(‹ÓºÌøÿÿÿÿ8“Œæ·Ò.
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(ˆ‘éÏ8û¥’¸Ò.

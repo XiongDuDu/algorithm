@@ -1,0 +1,33 @@
+
+C	java:S108!")Either remove or fill this block of code.(µ’ê¸úÿÿÿÿ
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(á¢âÇ8ç¢ñáã.
+]	java:S125N"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8úô„Ùã.
+N
+java:S16026",Remove useless curly braces around statement(§ÃÁÿÿÿÿÿ8Ìæòáã.
+J	java:S108p")Either remove or fill this block of code.(µ’ê¸úÿÿÿÿ8úô„Ùã.
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Üöáïøÿÿÿÿ
+S
+java:S1068"8Remove this unused "AVILIABLE_PROCESSORS" private field.(­úŠûûÿÿÿÿ
+]	java:S125?"<This block of commented-out lines of code should be removed.(À¥Øþÿÿÿÿ8±½óáã.
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(´·ž‡þÿÿÿÿ8ÉŸèáã.
+]	java:S125_"<This block of commented-out lines of code should be removed.(…î¾¿ùÿÿÿÿ8úô„Ùã.
+c
+java:S2142b"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8úô„Ùã.
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(›¶ø¼üÿÿÿÿ
+]	java:S125H"<This block of commented-out lines of code should be removed.(¡ª¨ùÿÿÿÿÿ8úô„Ùã.
+X	java:S125R"<This block of commented-out lines of code should be removed.(…ßå¡8Çáóáã.
+X	java:S125:"<This block of commented-out lines of code should be removed.(ÄÍ„É8±½óáã.
+f
+java:S2147d"DCombine this catch with the one at line 98, which has the same body.(åþŒóùÿÿÿÿ8úô„Ùã.
+J	java:S108.")Either remove or fill this block of code.(µ’ê¸úÿÿÿÿ8ÉŸèáã.
+Z	java:S106m"9Replace this use of System.out or System.err by a logger.(»Íƒÿýÿÿÿÿ8úô„Ùã.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÝùïÒùÿÿÿÿ8ó†‹Øã.
+Z	java:S106v"9Replace this use of System.out or System.err by a logger.( º‹³ùÿÿÿÿ8úô„Ùã.
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(­úŠûûÿÿÿÿ
+L
+java:S1481"/Remove this unused "futureCopy" local variable.(é£ó8±½óáã.
+J	java:S108")Either remove or fill this block of code.(µ’ê¸úÿÿÿÿ8ó†‹Øã.
+Z	java:S106k"9Replace this use of System.out or System.err by a logger.(ô½èœþÿÿÿÿ8úô„Ùã.
+T	java:S1063"9Replace this use of System.out or System.err by a logger.(ò÷58ðÆûáã.

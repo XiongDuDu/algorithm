@@ -1,0 +1,8 @@
+
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(ôÑÅÒ8ŞèŠÇ.
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(‡ä½Åúÿÿÿÿ8êŒÇ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(î°‡éşÿÿÿÿ8ÿÚÿÇ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(êàÑõ8÷¤ıÇ.
+{
+java:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(¬…µ•úÿÿÿÿ8Š†Ç.
+J	java:S108&")Either remove or fill this block of code.(µ’ê¸úÿÿÿÿ8Š†Ç.

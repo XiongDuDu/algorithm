@@ -1,0 +1,23 @@
+
+]	java:S1253"<This block of commented-out lines of code should be removed.(©žâ€ýÿÿÿÿ8†ÊÇ˜×.
+X	java:S125R"<This block of commented-out lines of code should be removed.(Üë»õ8†ÊÇ˜×.
+J
+java:S1604"(Make this anonymous inner class a lambda(…œÉ‡úÿÿÿÿ8µÉÔ˜×.
+~
+java:S34579"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(åµœà8µÉÔ˜×.
+P
+java:S11720".Remove this unused method parameter "integer".(÷ÑÛÎÿÿÿÿÿ8†ÊÇ˜×.
+c
+java:S2142>"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8†ÊÇ˜×.
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(þ†Éõ8†ÊÇ˜×.
+A
+java:S26299"$Invoke method(s) only conditionally.(åµœà8µÉÔ˜×.
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÉüØãùÿÿÿÿ8†ÊÇ˜×.
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(î„ûÃøÿÿÿÿ8†ÊÇ˜×.
+c
+java:S2142U"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8†ÊÇ˜×.
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(Ÿ³Ú¨øÿÿÿÿ8ÜÄ˜™×.
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(½æ÷Ÿþÿÿÿÿ8ÜÄ˜™×.
