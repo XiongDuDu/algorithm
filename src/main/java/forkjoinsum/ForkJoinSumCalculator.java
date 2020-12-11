@@ -6,6 +6,8 @@ import java.util.concurrent.RecursiveTask;
 import java.util.stream.LongStream;
 
 /**
+ * 分治算法的多线程编写方式
+ *
  * @author duwei7
  * @time 2020/12/9 15:24
  */
